@@ -3,20 +3,6 @@ body {
   padding: 0;
   font-family: "Poppins", serif;
   background-color: black;
+  color: white;
 }
 
-.containerPC{
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.containerRegion{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: blue;
-  color: white;
-  width: 300px;
-  height: 70px;
-  margin: 0 30px;
-}
